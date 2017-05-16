@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "112328188553",
+    "firebase_url": "https://ftrecommfirebase.firebaseio.com",
+    "project_id": "ftrecommfirebase",
+    "storage_bucket": "ftrecommfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112328188553:android:5f16fb5fadb1c9bf",
+        "android_client_info": {
+          "package_name": "com.teamproject_recomm.lxl.teamapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112328188553-583eprfcfaqkequv50gs9upav177tedu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamproject_recomm.lxl.teamapplication",
+            "certificate_hash": "9d75aad73dbb04e2dbdf62d29eec6c7d966d5dfe"
+          }
+        },
+        {
+          "client_id": "112328188553-vnfjivm0lgo54lhnj2k428dsarpjslvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQBpPMMGgiTt2L1IWLcG9GNVozIRQT70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112328188553-vnfjivm0lgo54lhnj2k428dsarpjslvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
