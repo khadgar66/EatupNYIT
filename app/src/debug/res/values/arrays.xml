@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fValue">
+        <item>Neither Like Nor Dislike</item>
+        <item>Slightly Like</item>
+        <item>Moderately Like</item>
+        <item>Very Much Like</item>
+        <item>Extremely Like</item>
+    </array>
+
+</resources>
